@@ -1,0 +1,8 @@
+IP:
+216.144.248.199,1232
+
+DB:
+edudb
+
+User:
+eduuser / edu@909
